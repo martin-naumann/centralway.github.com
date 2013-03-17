@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: html5 | Centralway Techblog]]></title>
-  <link href="http://centralway.github.com/blog/categories/html5/atom.xml" rel="self"/>
-  <link href="http://centralway.github.com/"/>
-  <updated>2013-03-17T21:20:07+01:00</updated>
-  <id>http://centralway.github.com/</id>
+  <link href="http://martin-naumann.github.com/blog/categories/html5/atom.xml" rel="self"/>
+  <link href="http://martin-naumann.github.com/"/>
+  <updated>2013-03-17T21:25:09+01:00</updated>
+  <id>http://martin-naumann.github.com/</id>
   <author>
     <name><![CDATA[Centralway]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Native vs. non-native: The native fallacy]]></title>
-    <link href="http://centralway.github.com/the-native-fallacy/"/>
+    <link href="http://martin-naumann.github.com/the-native-fallacy/"/>
     <updated>2013-03-11T11:00:00+01:00</updated>
-    <id>http://centralway.github.com/the-native-fallacy</id>
+    <id>http://martin-naumann.github.com/the-native-fallacy</id>
     <content type="html"><![CDATA[<h1>Native, web, hybrid?</h1>
 
 <p>When it comes to mobile application development, there’s far too many evangelism out there.</p>

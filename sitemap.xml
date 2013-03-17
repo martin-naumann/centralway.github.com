@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://centralway.github.com/hello-world/</loc>
+        <loc>http://martin-naumann.github.com/hello-world/</loc>
         <lastmod>2013-03-08T18:17:47+01:00</lastmod>
     </url>
     <url>
-        <loc>http://centralway.github.com/the-native-fallacy/</loc>
+        <loc>http://martin-naumann.github.com/the-native-fallacy/</loc>
         <lastmod>2013-03-08T21:53:09+01:00</lastmod>
     </url>
     <url>
-        <loc>http://centralway.github.com/blog/archives/</loc>
+        <loc>http://martin-naumann.github.com/blog/archives/</loc>
         <lastmod>2013-03-08T21:53:09+01:00</lastmod>
     </url>
     <url>
-        <loc>http://centralway.github.com/</loc>
+        <loc>http://martin-naumann.github.com/</loc>
         <lastmod>2013-03-08T21:53:09+01:00</lastmod>
     </url>
 </urlset>
